@@ -1,6 +1,6 @@
 https://www.hackerrank.com/contests/hackerrank-hackfest-2020/challenges/strictly-increasing-sequence
 #include <bits/stdc++.h>
-
+//its cool
 using namespace std;
 
 string ltrim(const string &);
